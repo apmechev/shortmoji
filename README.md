@@ -1,0 +1,2 @@
+# shortmoji
+Emoji shortener
